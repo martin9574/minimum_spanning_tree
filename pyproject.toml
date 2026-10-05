@@ -1,0 +1,14 @@
+[project]
+name = "minimum-spanning-tree"
+version = "0.1.0"
+description = "Computes a minimum-weight spanning tree of an edge-weighted undirected graph using Kruskal's algorithm with a disjoint-set structure."
+requires-python = ">=3.10"
+dependencies = []
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
