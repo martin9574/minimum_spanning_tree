@@ -1,6 +1,6 @@
 [project]
 name = "minimum-spanning-tree"
-version = "0.1.1"
+version = "0.1.2"
 description = "Computes a minimum-weight spanning tree of an edge-weighted undirected graph using Kruskal's algorithm with a disjoint-set structure."
 requires-python = ">=3.10"
 dependencies = []
